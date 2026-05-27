@@ -10,14 +10,9 @@
 # palavra_formatada = "*******"
 # letra = input(str("digite uma letra:"))
 
-# while True:
-#   if letra == palavra[0]:
-#     print("essa letra contem na palavra")
-#     print(palavra_formatada)
-#     continue
 
 
 while True:
   palavra_digitada = input(str("Digite uma letra:"))
-  palavra = " 
+  palavra = "teclado"
   palavra_formatada = "*******"
